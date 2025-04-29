@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Braden</h1>
 <h3 align="center">A passionate frontend developer from Texas</h3>
 
-- 🔭 I’m currently working on [Spots](https://wildrabbit2004.github.io/se_project_spots/)
+- 🔭 I’m currently working on [Spots](https://wildrabbit2004.github.io/se_project_spots/), a project from my bootcamp TripleTen.
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript** with the help of my tutors and fellow peers.
 
-- 📫 How to reach me **bgroo2004@gmail.com**
+- 📫 You can reach me anytime through my gmail **bgroo2004@gmail.com**
 
 - ⚡ Fun fact **I'm an avid gamer and binge-watcher**
 
