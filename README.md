@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I'm an avid gamer and binge-watcher**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: Braden Grooms</h3>
 <p align="left">
 <a href="https://fb.com/braden grooms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="braden grooms" height="30" width="40" /></a>
 </p>
